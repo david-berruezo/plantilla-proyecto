@@ -1,0 +1,10 @@
+{
+    "name": "david01/plantilla_proyecto",
+    "description": "Plantilla",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "classes\\": "classes/"
+        }
+    }
+}
