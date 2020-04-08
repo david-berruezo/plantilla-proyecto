@@ -1,5 +1,5 @@
 # Plantilla Proyecto
-### 01.- composer width autoload psr-4 classes
+### 01.- composer with autoload psr-4 classes folder
 ### 02.- npm with bootstrap node sass watcher scss jQuery
 ### 03.- css normalize.css reset.css style.css style.scss
 
